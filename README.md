@@ -1,2 +1,0 @@
-# ETLAB
-for all generater
